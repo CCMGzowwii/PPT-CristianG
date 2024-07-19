@@ -9,5 +9,5 @@ const btnScissor = document.getElementById('scissor')
 btnRock.addEventListener('click', chooseRock )
 
 function chooseRock (){
-    
+    document.getElementById('shift-user')
 }
